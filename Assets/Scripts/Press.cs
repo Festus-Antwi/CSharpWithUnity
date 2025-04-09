@@ -4,6 +4,7 @@ public class Press : MonoBehaviour
 {
     private TextMeshProUGUI numberLabel;
     
+    // just some text
     int number;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
